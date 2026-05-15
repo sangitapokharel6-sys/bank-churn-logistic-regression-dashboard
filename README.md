@@ -102,4 +102,4 @@ After running the script, review:
 
 ## Dashboard Preview
 
-![Bank Churn Dashboard](Dashboard_snapshot.png)
+![Bank Churn Dashboard](Dashboard_pic1.png)
