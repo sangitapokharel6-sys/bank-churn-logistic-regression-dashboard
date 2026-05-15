@@ -100,4 +100,6 @@ After running the script, review:
 - The ROC curve and AUC score.
 - The exported Excel dashboard dataset.
 
+## Dashboard Preview
 
+![Bank Churn Dashboard](images/dashboard_screenshot.png)
