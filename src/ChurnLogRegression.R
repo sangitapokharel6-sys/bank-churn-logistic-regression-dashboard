@@ -3,7 +3,7 @@
 # ================================
 
 # 1. Load dataset
-bank <- read.csv("Bank Customer Churn Prediction.csv")
+bank <- read.csv("data/Bank Customer Churn Prediction.csv")
 
 # 2. Inspect the data
 str(bank)
