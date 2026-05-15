@@ -79,7 +79,7 @@ source("requirements.R")
 The uploaded R script expects a file named:
 
 ```text
-Bank Customer Churn Prediction.csv
+bank_customer_churn_Prediction.csv
 ```
 
 Place that CSV file in the main project folder, or update the file path in `src/ChurnLogRegression.R` to match where your CSV is stored.
