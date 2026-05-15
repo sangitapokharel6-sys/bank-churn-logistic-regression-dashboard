@@ -100,18 +100,4 @@ After running the script, review:
 - The ROC curve and AUC score.
 - The exported Excel dashboard dataset.
 
-## Suggested GitHub repository description
 
-> Logistic regression project in R that predicts bank customer churn and creates a dashboard-ready Excel dataset for churn risk analysis.
-
-## Suggested topics/tags
-
-```text
-r logistic-regression churn-analysis banking-data data-analytics customer-retention roc-auc ggplot2
-```
-
-## Portfolio explanation
-
-You can describe this project on your resume or LinkedIn like this:
-
-> Built a customer churn prediction model in R using logistic regression, evaluated performance with confusion matrix metrics and ROC/AUC, and created a dashboard-ready Excel dataset with churn probabilities and customer risk segments.
